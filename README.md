@@ -4,8 +4,8 @@
 
 Simple. Minimal. No windows, no clutter. A small number next to your clock showing how fast your internet is moving right now.
 
-<!-- Add a screenshot: upload an image to the repo and replace the line below -->
-<!-- ![Screenshot](screenshot.png) -->
+<img width="90" height="62" alt="image" src="https://github.com/user-attachments/assets/1a899002-4a56-45dc-8e92-a8db08bdb394" />
+
 
 ## Features
 - Live download speed shown in the system tray (updates every second)
